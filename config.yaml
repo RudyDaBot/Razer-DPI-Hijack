@@ -1,0 +1,14 @@
+# base stage, dont touch this
+base_index: 2
+
+# bottom DPI key trigger
+down_key: "g"
+
+# top dpi key trigger
+up_key: "h"
+
+# Cooldown between triggers, if you want some spammability at the cost of stabiliy, lower this value
+cooldown: 0.35
+
+# how fast you wanna poll DBUS for changes, lower is more responsive but more CPU intensive
+poll_interval: 0.04
